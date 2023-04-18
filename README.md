@@ -1,4 +1,4 @@
-## Razorops CI/CD pipeline demo with Python 
+## Razorops CI/CD pipeline demo with Python  
 
 
 
